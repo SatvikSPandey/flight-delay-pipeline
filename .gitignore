@@ -1,4 +1,5 @@
 # Virtual environment
+venv/
 dashboard/venv/
 
 # Raw data files — too large for GitHub
