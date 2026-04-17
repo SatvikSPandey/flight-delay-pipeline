@@ -2,8 +2,8 @@
 venv/
 dashboard/venv/
 
-# Raw data files — too large for GitHub
-data/
+# Raw data files in project root — too large for GitHub
+/data/
 
 # Python cache
 __pycache__/
